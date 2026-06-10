@@ -1,4 +1,4 @@
-``
+```
 version: '3.8'
 
 services:
@@ -16,4 +16,4 @@ services:
       - INITIAL_PASSWORD=123456
       - HOSTNAME=0.0.0.0
       - REQUIRE_API_KEY=true
-``
+```
